@@ -1,0 +1,28 @@
+osmita http://www.osmita.com.ar/
+osde https://www.osde.com.ar/index.html
+prensa https://www.prensaobrasocial.com/
+osapm https://www.osapm.org/#/homeV4
+servesalud https://servesalud.com.ar/
+asunt http://asunt.org.ar/
+ospjn https://www.ospjn.gov.ar/
+ipsst http://ipsst.gov.ar/
+opdea http://opdea.org/
+tv salud https://www.tvsalud.com/inicio/
+swiss medical https://www.swissmedical.com.ar/prepagaclientes/
+iosfa https://iosfa.gob.ar/
+red http://www.reddeseguromedico.com/
+aca salud https://acasalud.com.ar/
+osseg https://www.osseg.org.ar/
+sancor https://www.sancorsalud.com.ar/
+osjera osjera.com.ar
+jerarquicos http://www.jerarquicos.com/
+ospf http://www.ospf.org.ar/
+ospe https://www.ospesalud.com.ar/
+osmedica http://www.osmedica.com.ar/
+osfatun https://www.osfatun.com.ar/?avia_forced_reroute=1
+prevencion salud https://www.prevencionsalud.com.ar/
+smata https://www.smata.com.ar/
+medifé https://www.medife.com.ar/
+bramed http://bramedsalud.com.ar/
+
+https://api.whatsapp.com/send?phone=543815828859&text=%C2%A1Hola!%20Quiero%20solicitar%20un%20turno%20para%20*MAR%20Centro%20de%20Kinesiolog%C3%ADa*.
